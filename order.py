@@ -1,3 +1,4 @@
+# easy python code to make a menu card using python programming language
 # menu card of bihari gujrati and chinese 
 print("1=GUJRATI")
 print("2=BIHARI")
